@@ -10,6 +10,5 @@ acrescentados na etiqueta de preço conforme
 exemplo (próxima página). Para produtos
 importados, a taxa e alfândega deve ser
 acrescentada ao preço final do produto.
-Favor implementar o programa conforme
-projeto ao lado.
+
 
